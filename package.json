@@ -67,7 +67,7 @@
     "stream-series": "^0.1.1",
     "through2": "^0.6.3"
   },
-  main: "./dist/angular-material.js",
+  "main": "./dist/angular-material.js",
   "scripts": {
     "watch": "gulp watch site --dev",
     "prom": "git pull --rebase origin master",
